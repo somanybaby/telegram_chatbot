@@ -151,5 +151,5 @@ A: 请确保：1. 群组 ID 正确（-100开头）；2. 群组已开启 Topics �
 [![Star History Chart](https://api.star-history.com/svg?repos=jikssha/telegram_private_chatbot&type=Date)](https://star-history.com/#jikssha/telegram_private_chatbot&Date)
 
 ---
-
+[![Telegram](https://img.shields.io/badge/Telegram-Chat_With_Me-blue?style=social&logo=telegram)](https://t.me/vaghr_wegram_bot)
 **如果这个项目对你有帮助，请给个 Star ⭐️ 吧！**
